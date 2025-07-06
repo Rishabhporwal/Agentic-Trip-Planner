@@ -14,6 +14,7 @@ langchain_groq
 langchain_openai
 langgraph
 ipykernel
+langchain-google-community[places]
 
 
 -e .
